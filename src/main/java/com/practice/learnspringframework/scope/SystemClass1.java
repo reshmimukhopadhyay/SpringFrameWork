@@ -1,2 +1,7 @@
-package com.practice.learnspringframework.scope;public class SystemClass1 {
+package com.practice.learnspringframework.scope;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class SystemClass1 {
 }

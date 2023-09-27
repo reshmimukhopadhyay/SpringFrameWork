@@ -1,4 +1,4 @@
-package com.practice.learnspringframework.connection;
+package com.practice.learnspringframework.personConnection;
 
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.Scope;
